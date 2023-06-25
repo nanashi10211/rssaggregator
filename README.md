@@ -9,6 +9,10 @@
 
 #### Package used
 
-* github.com/joho/godotenv
-* github.com/go-chi/chi
-* github.com/go-chi/cors
+* [godotenv]
+* [chi]
+* [cors]
+
+[godotenv]: https://github.com/joho/godotenv
+[chi]: https://github.com/go-chi/chi
+[cors]: https://github.com/go-chi/cors
