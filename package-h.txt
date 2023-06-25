@@ -1,0 +1,22 @@
+github.com/joho/godotenv
+github.com/go-chi/chi
+github.com/go-chi/cors
+
+sql ORM:
+github.com/kyleconroy/sqlc/cmd/sqlc@latest
+ex: 
+go install github.com/kyleconroy/sqlc/cmd/sqlc@latest
+
+--
+github.com/pressly/goose/v3/cmd/goose@latest
+
+--- some usefull command
+
+sqlc generate
+
+goose postgresql usl up
+goose postgresql usl down
+
+go mod tidy
+go mod vendor
+go get package_url
